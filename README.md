@@ -2,10 +2,6 @@
 
 **BASE PARA MICRO FRONT ENDS** es un proyecto modular diseñado para gestionar diversos aspectos administrativos y operativos. Actualmente, se enfoca en un módulo específico, pero está estructurado para expandirse fácilmente a otros módulos en el futuro.
 
-## Módulos
-
-1. **Módulo de Roles**: Encargado de la generación de PDF de roles de pago.
-
 ## Herramientas Utilizadas
 
 - **Lefthook**: Para la ejecución de hooks de Git como linters y pruebas antes de los commits.
@@ -13,13 +9,6 @@
 - **Prettier**: Para formatear el código de manera consistente.
 - **Redux**: Para la gestión del estado global de la aplicación.
 - **React Router**: Para la navegación y enrutamiento en la aplicación React.
-
-## Módulo de Roles
-
-El **Módulo de Roles** se encarga de generar los roles de pago en formato PDF. Este módulo incluye:
-
-- Funcionalidad para generar PDF de roles de pago.
-- Interfaz para la gestión y visualización de roles generados.
 
 ## Configuración de Prettier y ESLint
 
