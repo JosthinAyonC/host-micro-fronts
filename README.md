@@ -1,6 +1,6 @@
-# Proyecto ADAM
+# Proyecto BASE PARA MICRO FRONT ENDS
 
-**ADAM** es un proyecto modular diseñado para gestionar diversos aspectos administrativos y operativos. Actualmente, se enfoca en un módulo específico, pero está estructurado para expandirse fácilmente a otros módulos en el futuro.
+**BASE PARA MICRO FRONT ENDS** es un proyecto modular diseñado para gestionar diversos aspectos administrativos y operativos. Actualmente, se enfoca en un módulo específico, pero está estructurado para expandirse fácilmente a otros módulos en el futuro.
 
 ## Módulos
 
